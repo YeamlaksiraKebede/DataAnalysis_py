@@ -91,13 +91,13 @@ These visualizations and insights provide a comprehensive understanding of Ether
 
 ## Usage
 
-To reproduce the visualizations, run the provided Python script `visualization.py`. Ensure you have the required libraries installed:
+To reproduce the visualizations, run the provided Python script `eth_analysis.ipynb`. Ensure you have the required libraries installed:
 
 ```bash
 pip install pandas matplotlib seaborn
 
 Then run/upload the script:
 
-python eth_analysis.ipynb --- jupyter notebook
+python eth_analysis.ipynb ---> on jupyter notebook
 
 
